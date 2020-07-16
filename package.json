@@ -1,0 +1,16 @@
+{
+    "name": "@iboost/prettier-config",
+    "version": "1.0.1",
+    "description": "Iboost Prettier Config",
+    "main": "index.json",
+    "license": "MIT",
+    "keywords": [
+      "prettier",
+      "prettier-config"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://gitlab.vce-consulting.be/iboost/prettier-config"
+    },
+    "homepage": "https://gitlab.vce-consulting.be/iboost/prettier-config"
+  }
